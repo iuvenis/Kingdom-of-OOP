@@ -4,7 +4,7 @@ ES6 OOP Exercise
 
 ## Goal
 
-Setup all required classes and subclasses of the animal kingdom.  
+Setup all required classes and subclasses of the animal kingdom.
 Make tests pass.
 
 ## Setup project
@@ -23,9 +23,9 @@ gulp
 
 ## Classes and Subclasses
 
-all class files will be saved to the `lib/` subdirectory.  
-each class file will be named after it's class name, for example the `Protista` class will be saved in `lib/Protista.js`  
-each class file will define only one class, and export it as `default`  
+all class files will be saved to the `lib/` subdirectory.
+each class file will be named after it's class name, for example the `Protista` class will be saved in `lib/Protista.js`
+each class file will define only one class, and export it as `default`
 
 ### LivingThing
 
@@ -311,7 +311,7 @@ invokes the super constructor with all required arguments using the following ha
 
 ## When all tests pass
 
-Play with instantiating objects in `./example/index.js`  
+Play with instantiating objects in `./example/index.js`
 there is one example of each class already written
 
 ```bash
